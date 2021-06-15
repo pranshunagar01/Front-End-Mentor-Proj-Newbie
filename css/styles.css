@@ -1,0 +1,106 @@
+body{
+  background-color: #3C8DAD;
+  position: relative;
+  bottom: 1900px;
+  left: 450px;
+}
+.box-top{
+  border-radius: 8px 8px 0px 0px;
+}
+.box-mid{
+  width: 350px;
+  height: 150px;
+  background-color: white;
+}
+.box-mid{
+  position: relative;
+  bottom: 26px;
+}
+.box-bottom{
+  background-color: white;
+  display: inline-block;
+  width: 350px;
+  border-top: 5px;
+  border-color: grey;
+  position: relative;
+  bottom: 42px;
+  border-radius: 0px 0px 8px 8px;
+}
+.bottom1{
+  display: inline-block;
+}
+.bottom2{
+  display: inline-block;
+}
+.bottom3{
+  display: inline-block;
+}
+span{
+  color: grey;
+}
+.mid-text1{
+  position: relative;
+  padding-top: 70px;
+  padding-left: 95px;
+  font-size: 20px;
+  left: 10px;
+}
+.mid-text2{
+  padding-left: 140px;
+  font-size: 14px;
+  position: relative;
+  left: 10px;
+  bottom: 6px;
+}
+.bottom-head{
+  font-size: 20px;
+  padding-left: 50px;
+  position: relative;
+  top: 23px;
+}
+.bottom-text1{
+  font-size: 10px;
+  padding-left: 50px;
+  position: relative;
+  top: 10px;
+}
+.bottom-text2{
+  font-size: 10px;
+  padding-left: 60px;
+  position: relative;
+  top: 10px;
+}
+.bottom-text3{
+  font-size: 10px;
+  padding-left: 55px;
+  position: relative;
+  top: 10px;
+}
+.line{
+  display: inline-block;
+  position: relative;
+  width: 350px;
+  bottom: 70px;
+  border:none;
+}
+.attribution{
+  position: relative;
+  right: 455px;
+}
+.photo{
+  position: relative;
+  display: inline-block;
+  bottom: 224px;
+  right: 220px;
+}
+.photo1{
+  padding: 5px;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+p{
+  color: grey;
+}
